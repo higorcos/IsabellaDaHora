@@ -65,7 +65,9 @@ export function Footer() {
 
       <div className="border-t border-beige/10">
         <div className="container-px py-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-sm text-beige/50">
-          <p>© {year} Isabella da Hora. Todos os direitos reservados.</p>
+          <p>© {year} Isabella da Hora. Todos os direitos reservados.
+            <br></br> Desenvolvido por <a href="https://kerodon.dev.br" target="_blank" rel="noopener noreferrer">KERODON</a>.</p>
+          
           <p>Feito com propósito e criatividade.</p>
         </div>
       </div>
