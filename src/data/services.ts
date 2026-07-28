@@ -3,7 +3,7 @@ import {
   ClipboardList,
   Clapperboard,
   Camera,
-  Aperture,
+  /*Aperture,*/
   Film,
   PartyPopper,
   TrendingUp,
