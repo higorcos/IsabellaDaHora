@@ -3,7 +3,7 @@ import gallery2 from '../assets/photos/gallery-2.webp'
 import gallery3 from '../assets/photos/gallery-3.webp'
 import gallery4 from '../assets/photos/gallery-4.webp'
 import gallery5 from '../assets/photos/gallery-5.webp'
-/*
+*/
 export interface PortfolioItem {
   image: string
   title: string
