@@ -11,9 +11,18 @@ export interface PortfolioItem {
 }
 
 export const portfolioItems: PortfolioItem[] = [
+  /*
   { image: gallery1, title: 'Editorial ao Ar Livre', category: 'Fotografia' },
   { image: gallery2, title: 'Direção de Conteúdo', category: 'Produção' },
   { image: gallery3, title: 'Retrato de Marca Pessoal', category: 'Branding' },
   { image: gallery4, title: 'Ensaio Institucional', category: 'Fotografia' },
-  { image: gallery5, title: 'Campanha Digital', category: 'Estratégia' },
+  { image: gallery5, title: 'Campanha Digital', category: 'Estratégia' },*/
+
+
+
+   { image: gallery1, title: 'Ensaio', category: 'Fotografia' },
+  { image: gallery2, title: 'Ensaio', category: 'Fotografia' },
+  { image: gallery3, title: 'Ensaio', category: 'Fotografia' },
+  { image: gallery4, title: 'Ensaio', category: 'Fotografia' },
+  { image: gallery5, title: 'Ensaio', category: 'Fotografia' },
 ]

@@ -42,12 +42,7 @@ export const services: Service[] = [
     description:
       'Registro fotográfico e audiovisual em campo, com sensibilidade estética para cada contexto.',
   },
-  {
-    icon: Aperture,
-    title: 'Fotografia',
-    description:
-      'Ensaios e retratos profissionais com luz, composição e narrativa visual de alto padrão.',
-  },
+ 
   {
     icon: Film,
     title: 'Edição de Vídeos',
@@ -64,7 +59,7 @@ export const services: Service[] = [
     icon: TrendingUp,
     title: 'Estratégias Digitais',
     description:
-      'Análise de dados e planejamento de campanhas para gerar alcance, engajamento e resultado.',
+      'Personalizado com a necessidade do cliente. Para gerar alcance, engajamento e resultado.',
   },
   {
     icon: InstagramIcon,

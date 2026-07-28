@@ -31,7 +31,7 @@ function App() {
         <Services />
         <Portfolio />
         <Differentiators />
-        <Testimonials />
+        {/*<Testimonials />*/}
         <CTA />
       </main>
       <Footer />

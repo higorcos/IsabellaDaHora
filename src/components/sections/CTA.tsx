@@ -21,7 +21,7 @@ export function CTA() {
               Vamos conversar
             </span>
             <h2 className="font-serif text-3xl sm:text-4xl lg:text-5xl font-medium text-beige text-balance">
-              Vamos transformar sua presença digital?
+              Vamos tirar sua marca do anonimato?
             </h2>
             <p className="text-beige/85 text-lg text-balance">
               Fale comigo agora e descubra como estratégia, conteúdo e comunicação podem elevar

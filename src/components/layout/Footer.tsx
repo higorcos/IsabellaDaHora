@@ -7,7 +7,8 @@ export function Footer() {
 
   const socials = [
     { icon: InstagramIcon, label: 'Instagram', href: site.instagram },
-    { icon: LinkedinIcon, label: 'LinkedIn', href: site.linkedin },
+    /*
+    { icon: LinkedinIcon, label: 'LinkedIn', href: site.linkedin }, */
     { icon: MessageCircle, label: 'WhatsApp', href: `https://wa.me/${site.whatsapp}` },
     { icon: Mail, label: 'Email', href: `mailto:${site.email}` },
   ]

@@ -3,7 +3,7 @@ export const site = {
   role: 'Jornalista & Social Media',
   tagline: 'Transformando ideias em comunicação que gera resultados.',
   description:
-    'Social Media, produção de conteúdo, edição de vídeos, fotografia e estratégias digitais para fortalecer marcas e conectar pessoas.',
+    'Social Media, produção de conteúdo, edição de vídeos e estratégias digitais para fortalecer marcas e conectar pessoas.',
   email: 'contato@isabelladahora.com.br',
   whatsapp: '5598985988272',
   whatsappDisplay: '+55 98 985988272',
@@ -18,6 +18,6 @@ export const navLinks = [
   { label: 'Serviços', href: '#servicos' },
   { label: 'Portfólio', href: '#portfolio' },
   { label: 'Diferenciais', href: '#diferenciais' },
-  { label: 'Depoimentos', href: '#depoimentos' },
+  /* { label: 'Depoimentos', href: '#depoimentos' }, */
   { label: 'Contato', href: '#contato' },
 ] as const

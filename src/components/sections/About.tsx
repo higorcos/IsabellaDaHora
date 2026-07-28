@@ -66,7 +66,7 @@ export function About() {
             </h2>
           </Reveal>
 
-          <Reveal delay={0.2} className="flex flex-col gap-4 text-brown/75 dark:text-beige/75 leading-relaxed">
+          <Reveal delay={0.2} className="flex flex-col gap-4 text-brown/75 dark:text-beige/75 leading-relaxed text-justify">
             <p>
               Sou Isabella da Hora, estudante de Jornalismo apaixonada por transformar histórias em
               conexões reais entre marcas e pessoas. Ao longo da minha trajetória, uni a rigidez
@@ -75,7 +75,7 @@ export function About() {
             </p>
             <p>
               Atuo como Social Media e produtora de conteúdo, acompanhando cada projeto do
-              planejamento à entrega — da captação de imagem à publicação final — sempre com
+              planejamento à entrega, da captação de imagem à publicação final, sempre com
               atenção aos detalhes que fazem a diferença na percepção de uma marca.
             </p>
             <p>
