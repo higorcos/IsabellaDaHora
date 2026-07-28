@@ -9,7 +9,7 @@ import { About } from './components/sections/About'
 import { Services } from './components/sections/Services'
 import { Portfolio } from './components/sections/Portfolio'
 import { Differentiators } from './components/sections/Differentiators'
-import { Testimonials } from './components/sections/Testimonials'
+{/*import { Testimonials } from './components/sections/Testimonials'*/}
 import { CTA } from './components/sections/CTA'
 
 function App() {
