@@ -29,8 +29,9 @@ function App() {
         <Hero />
         <About />
         <Services />
-        <Portfolio />
+      
         <Differentiators />
+          <Portfolio />
         {/*<Testimonials />*/}
         <CTA />
       </main>

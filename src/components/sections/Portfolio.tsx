@@ -12,7 +12,7 @@ export function Portfolio() {
         <SectionHeading
           eyebrow="Portfólio"
           title="Trabalhos que contam histórias"
-          description="Uma seleção de projetos autorais e colaborações que unem fotografia, produção e estratégia de conteúdo."
+          description="Onde compartilho meu trabalho, projetos, bastidores e o dia a dia da minha profissão."
         />
 
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -43,6 +43,16 @@ export function Portfolio() {
               </div>
             </Reveal>
           ))}
+            <Reveal delay={0.24}>
+            <a
+              href={site.instagram}
+              target="_blank"
+              rel="noreferrer"
+              className=""
+            >
+             
+            </a>
+          </Reveal>
 
           <Reveal delay={0.24}>
             <a

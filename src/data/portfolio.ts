@@ -20,9 +20,4 @@ export const portfolioItems: PortfolioItem[] = [
 
 
 
-   { image: gallery1, title: 'Ensaio', category: 'Fotografia' },
-  { image: gallery2, title: 'Ensaio', category: 'Fotografia' },
-  { image: gallery3, title: 'Ensaio', category: 'Fotografia' },
-  { image: gallery4, title: 'Ensaio', category: 'Fotografia' },
-  { image: gallery5, title: 'Ensaio', category: 'Fotografia' },
 ]
