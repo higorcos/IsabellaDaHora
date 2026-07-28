@@ -18,6 +18,8 @@ const highlights = [
     label: 'Criatividade aplicada à estratégia',
   },
 ]
+const START_YEAR = 2021;
+const years = new Date().getFullYear() - START_YEAR;
 
 export function About() {
   return (
@@ -46,7 +48,7 @@ export function About() {
             transition={{ duration: 6, repeat: Infinity, ease: 'easeInOut' }}
             className="absolute -bottom-8 -left-8 hidden sm:block rounded-2xl bg-terracotta text-beige px-6 py-5 shadow-xl max-w-[13rem]"
           >
-            <p className="font-serif text-3xl font-semibold leading-none">+5</p>
+            <p className="font-serif text-3xl font-semibold leading-none">+{years}</p>
             <p className="text-xs uppercase tracking-wide mt-2 text-beige/80">
               anos criando conteúdo estratégico
             </p>
