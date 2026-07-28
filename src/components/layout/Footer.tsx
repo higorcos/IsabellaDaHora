@@ -1,5 +1,5 @@
 import { Mail, MessageCircle } from 'lucide-react'
-import { InstagramIcon, LinkedinIcon } from '../ui/BrandIcons'
+import { InstagramIcon } from '../ui/BrandIcons'
 import { navLinks, site } from '../../data/site'
 
 export function Footer() {
