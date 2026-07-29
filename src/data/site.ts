@@ -4,7 +4,7 @@ export const site = {
   tagline: 'Transformando ideias em comunicação que gera resultados.',
   description:
     'Social Media, produção de conteúdo, edição de vídeos e estratégias digitais para fortalecer marcas e conectar pessoas.',
-  email: 'contato@isabelladahora.com.br',
+  email: 'isabellawdahora@gmail.com.br',
   whatsapp: '5598985988272',
   whatsappDisplay: '+55 98 985988272',
   instagram: 'https://instagram.com/isadahora_',

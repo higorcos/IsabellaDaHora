@@ -1,8 +1,11 @@
 import { motion } from 'framer-motion'
 import { GraduationCap, Newspaper, Sparkles } from 'lucide-react'
 import { Reveal } from '../ui/Reveal'
+/*import aboutJpg from '../../assets/photos/about.jpg'
 import aboutWebp from '../../assets/photos/about.webp'
-import aboutJpg from '../../assets/photos/about.jpg'
+*/
+import aboutWebp from '../../assets/photos/gallery-3.webp'
+import aboutJpg from '../../assets/photos/gallery-3.jpg'
 
 const highlights = [
   {
@@ -76,7 +79,7 @@ export function About() {
               que informam, emocionam e geram resultado.
             </p>
             <p>
-              Atuo como Social Media e produtora de conteúdo, acompanhando cada projeto do
+              Atuo como Social Media e produtora de conteúdos jornalísticos, acompanhando cada projeto do
               planejamento à entrega, da captação de imagem à publicação final, sempre com
               atenção aos detalhes que fazem a diferença na percepção de uma marca.
             </p>
